@@ -9,7 +9,7 @@ class Api::V1::QuestionsController < ApplicationController
             body: question.body,
             date_time: question.created_at,
             user_identity: question.user.present? ? question.user.user_identity : nil,
-            # answer: question.user.answer.present? ? question.user.answer : nil
+            answer: question.answer.present? ? question.answer : nil
           }
         }
       end

@@ -68,7 +68,6 @@ In order to run this project locally, you need to have Ruby installed on your ma
 ### Setup
 
 ```sh
-  cd my-folder
   git clone https://github.com/kennankole/message-web-app-backend.git
 ```
 

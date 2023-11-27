@@ -13,15 +13,8 @@ Rails.application.routes.draw do
 
   namespace :api do
     namespace :v1 do
-      resources :questions, only: [:index, :show] do
+      resources :questions, only: [:index, :show, :create] do
         resources :users
-      end
-    end
-  end
-
-  namespace :api do
-    namespace :v1 do
-      resources :questions do
         resources :answers, only: [:show, :create, :index]
       end
     end

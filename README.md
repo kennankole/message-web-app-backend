@@ -49,7 +49,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://math-magic.onrender.com)
+- [Live Demo Link](https://message-web-app.onrender.com)
 
 <!-- GETTING STARTED -->
 

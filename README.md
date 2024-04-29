@@ -21,7 +21,7 @@
 
 # 📖 Messaging Web API <a name="about-project"></a>
 
-**Messaging Web API** is the backend `API` that allows `Branch International` users to `POST` questions and receive answers from `Branch Agents`
+**Messaging Web API** is the backend `API` that allows users to `POST` questions and receive answers
 
 ## 🛠 Built With <a name="built-with"></a>
 
